@@ -1,4 +1,4 @@
-// console.log('hello, Nodejs')
+// mongodb+srv://kferraresilima:132147@cluster0.44qza.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 
 const express = require('express') //importando a biblioteca
 const cors = require('cors')
